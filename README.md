@@ -2,6 +2,10 @@
 
 When you first start an assignment, whatever it may be, you will see this! This document will explain what to do for basic help.
 
+## How do I create/upload a new file?
+
+![image](http://s12.postimg.org/3tivwa8n1/Screenshot_at_11_19_59.png)
+
 ## How do I edit a file?
 
 Click the filename, then select the pencil in the right corner. Reference the image below if you can't find it.
